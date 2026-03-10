@@ -1,10 +1,10 @@
 ### 📦 Repositories
 
-| Repository | Description |
-|:---|:---|
-| [zambaguni-backend](https://github.com/zambaguni/zambaguni-backend) | 🔧 백엔드 서버 (Java) |
-| [zambaguni-front](https://github.com/zambaguni/zambaguni-front) | 🎨 프론트엔드 (TypeScript) |
-| [zambaguni-mobile](https://github.com/zambaguni/zambaguni-mobile) | 📱 모바일 (Flutter) |
+| Repository | Description | Issues |
+|:---|:---|:---|
+| [zambaguni-backend](https://github.com/zambaguni/zambaguni-backend) | 🔧 백엔드 서버 (Java) | [Issues](https://github.com/zambaguni/zambaguni-backend/issues) |
+| [zambaguni-front](https://github.com/zambaguni/zambaguni-front) | 🎨 프론트엔드 (TypeScript) | [Issues](https://github.com/zambaguni/zambaguni-front/issues) |
+| [zambaguni-mobile](https://github.com/zambaguni/zambaguni-mobile) | 📱 모바일 (Flutter) | [Issues](https://github.com/zambaguni/zambaguni-mobile/issues) |
 
 ### 📋 Project Board
 
