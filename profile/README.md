@@ -1,6 +1,5 @@
 ---
-
-## 📂 Repositories
+# 📂 Repositories
 
 | Repository | Description |
 |:---|:---|
