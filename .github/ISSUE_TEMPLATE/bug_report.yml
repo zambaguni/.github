@@ -1,7 +1,7 @@
 name: 버그 리포트
 description: 버그를 발견한 경우 이 템플릿을 사용해주세요
-title: "[Bug] "
-labels: ["fix"]
+title: "[fix] "
+type: "fix"
 projects: ["zambaguni/2"]
 body:
   - type: textarea

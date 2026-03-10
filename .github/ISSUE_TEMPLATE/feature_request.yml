@@ -1,7 +1,7 @@
 name: 기능 요청
 description: 새로운 기능을 제안하는 경우 이 템플릿을 사용해주세요
-title: "[Feature] "
-labels: ["feat"]
+title: "[feat] "
+type: "feat"
 projects: ["zambaguni/2"]
 body:
   - type: textarea

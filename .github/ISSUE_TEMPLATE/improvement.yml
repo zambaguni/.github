@@ -1,7 +1,7 @@
 name: 개선 사항
 description: 기존 기능의 개선을 제안하는 경우 이 템플릿을 사용해주세요
-title: "[Improvement] "
-labels: ["refactor"]
+title: "[refactor] "
+type: "refactor"
 projects: ["zambaguni/2"]
 body:
   - type: textarea
