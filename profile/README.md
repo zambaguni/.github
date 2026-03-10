@@ -8,4 +8,4 @@
 
 ### 📋 Project Board
 
-[통합 칸반보드](https://github.com/orgs/zambaguni/projects/2)
+[![Kanban Board](https://img.shields.io/badge/통합_칸반보드-조회하기-blue?style=flat-square&logo=github)](https://github.com/orgs/zambaguni/projects/2)
