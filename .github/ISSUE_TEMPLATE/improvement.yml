@@ -4,6 +4,11 @@ title: "[refactor] "
 type: "refactor"
 projects: ["zambaguni/2"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > ⚠️ 이슈 생성 전 하단의 **Assignee**, **Label**를 반드시 선택해주세요.
+
   - type: textarea
     id: current-state
     attributes:
