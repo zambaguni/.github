@@ -1,11 +1,3 @@
-## 변경 유형 (Required)
-
-- [ ] Feature (새로운 기능 추가)
-- [ ] Bug Fix (버그 수정)
-- [ ] Refactor (기능 변경 없는 코드 개선)
-- [ ] Documentation (문서 수정)
-- [ ] Other (설명: )
-
 ## CI/CD 옵션 (Optional)
 
 <!-- 문서 수정, 오타 수정 등 배포가 불필요한 경우 체크 (Develop 환경 자동 배포 생략) -->
