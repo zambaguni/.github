@@ -1,3 +1,6 @@
+<!-- PR 제목은 Conventional Commits 형식으로 작성해주세요 -->
+<!-- 예: feat: 로그인 기능 추가 / fix: 이메일 검증 오류 수정 / refactor: 인증 모듈 구조 개선 -->
+
 ## CI/CD 옵션 (Optional)
 
 <!-- 문서 수정, 오타 수정 등 배포가 불필요한 경우 체크 (Develop 환경 자동 배포 생략) -->

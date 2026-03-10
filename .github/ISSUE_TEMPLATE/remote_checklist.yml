@@ -2,6 +2,7 @@ name: 재택근무 체크리스트
 description: 주 1회 재택근무 전날 작성하는 작업 계획 및 당일 체크리스트
 title: "[재택] YYYY-MM-DD"
 labels: ["remote-work"]
+projects: ["zambaguni/2"]
 body:
   - type: markdown
     attributes:
