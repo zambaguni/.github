@@ -1,0 +1,58 @@
+name: 유지보수 작업
+description: 의존성 업데이트, CI 설정, 리팩토링 등 유지보수 작업에 사용해주세요
+title: "[Chore] "
+labels: ["chore"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "🔧 작업 설명"
+      description: 어떤 유지보수 작업인지 설명해주세요
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: work-type
+    attributes:
+      label: 작업 유형
+      description: 해당하는 항목에 체크해주세요
+      options:
+        - label: 의존성 업데이트
+        - label: CI/CD 설정
+        - label: 리팩토링
+        - label: 설정 파일 변경
+        - label: 문서 정리
+        - label: 기타
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: "✅ 작업 항목"
+      description: 구체적인 작업 단계를 체크리스트로 작성해주세요
+      value: |
+        - [ ]
+        - [ ]
+        - [ ]
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 영향 범위
+      description: 해당하는 항목을 선택해주세요
+      multiple: true
+      options:
+        - backend
+        - fe-user
+        - fe-admin
+        - fe-partner
+        - app-user
+        - app-partner
+        - CI/CD
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 추가 정보
+      description: 관련 이슈, 참고 링크, 마이그레이션 가이드 등
