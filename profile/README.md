@@ -8,7 +8,7 @@
 | [rchat-auth](https://github.com/zambaguni/rchat-auth) | 🔐 통합회원 인증/인가 MSA (Java) | [Issues](https://github.com/zambaguni/rchat-auth/issues) | [PRs](https://github.com/zambaguni/rchat-auth/pulls) | - |
 | [rchat-loyalty](https://github.com/zambaguni/rchat-loyalty) | 🎁 통합회원 로열티/포인트 MSA (Java) | [Issues](https://github.com/zambaguni/rchat-loyalty/issues) | [PRs](https://github.com/zambaguni/rchat-loyalty/pulls) | - |
 | [zambaguni-mobile](https://github.com/zambaguni/zambaguni-mobile) | 📱 모바일 (Flutter) | [Issues](https://github.com/zambaguni/zambaguni-mobile/issues) | [PRs](https://github.com/zambaguni/zambaguni-mobile/pulls) | [Board](https://github.com/orgs/zambaguni/projects/6) |
-| [team-docs](https://github.com/zambaguni/team-docs) | 📑 알챗 개발 문서 | |
+| [team-docs](https://github.com/zambaguni/team-docs) | 📑 알챗 개발 문서 | - | - | - |
 
 ### 📋 Project Board
 
