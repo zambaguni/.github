@@ -1,14 +1,11 @@
 <!-- PR 제목은 Conventional Commits 형식으로 작성해주세요 -->
 <!-- 예: feat: 로그인 기능 추가 / fix: 이메일 검증 오류 수정 / refactor: 인증 모듈 구조 개선 -->
 
-## CI/CD 옵션 (Optional)
-
-<!-- 문서 수정, 오타 수정 등 배포가 불필요한 경우 체크 (Develop 환경 자동 배포 생략) -->
-<!-- ⚠️ 주의: 체크박스만 [x]로 변경하고, 텍스트는 수정하지 마세요 -->
-
-- [x] [skip ci] 빌드 및 배포 생략
-
----
+<!-- 배포 생략이 필요하면 스킵 토큰을 PR '제목' 끝에만 붙입니다. 본문에는 넣지 마세요 -->
+<!-- 일부 레포는 PR 본문을 그대로 커밋 메시지로 쓰기 때문에, 본문에 토큰이 있으면 워크플로우 run 자체가 생성되지 않습니다 -->
+<!-- 토큰 문자열: https://docs.github.com/en/actions/how-tos/manage-workflow-runs/skip-workflow-runs -->
+<!-- 사내 절차: zambaguni-front 레포의 docs/team/guides/ci-cd/SKIP-CI-GUIDE.md (org 멤버 전용) -->
+<!-- 위 주석에 토큰 문자열을 직접 적지 마세요. 이 템플릿은 org 전체 PR 본문에 복제됩니다 -->
 
 ## 개요 (Required)
 
