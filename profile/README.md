@@ -3,7 +3,7 @@
 | Repository | Description | Issues | PRs | Project |
 |:---|:---|:---|:---|:---|
 | [.github](https://github.com/zambaguni/.github) | 🏠 Organization 프로필 & 공통 설정 | - | - | - |
-| [rchat-agent-workflows](https://github.com/zambaguni/rchat-agent-workflows) | 🤖 Claude·Codex 공용 이슈·PR 워크플로 (Private) | [Issues](https://github.com/zambaguni/rchat-agent-workflows/issues) | [PRs](https://github.com/zambaguni/rchat-agent-workflows/pulls) | - |
+| [ara-skills](https://github.com/zambaguni/ara-skills) | 🤖 Claude·Codex 공용 팀 스킬 (ara 플러그인, Private) | [Issues](https://github.com/zambaguni/ara-skills/issues) | [PRs](https://github.com/zambaguni/ara-skills/pulls) | - |
 | [zambaguni-front](https://github.com/zambaguni/zambaguni-front) | 🎨 프론트엔드 (TypeScript) | [Issues](https://github.com/zambaguni/zambaguni-front/issues) | [PRs](https://github.com/zambaguni/zambaguni-front/pulls) | [Board](https://github.com/orgs/zambaguni/projects/8) |
 | [zambaguni-backend](https://github.com/zambaguni/zambaguni-backend) | 🔧 백엔드 서버 (Java) | [Issues](https://github.com/zambaguni/zambaguni-backend/issues) | [PRs](https://github.com/zambaguni/zambaguni-backend/pulls) | [Board](https://github.com/orgs/zambaguni/projects/3) |
 | [rchat-auth](https://github.com/zambaguni/rchat-auth) | 🔐 통합회원 인증/인가 MSA (Java) | [Issues](https://github.com/zambaguni/rchat-auth/issues) | [PRs](https://github.com/zambaguni/rchat-auth/pulls) | - |
